@@ -1,0 +1,15 @@
+{
+  "recipes": {
+    "iwaves/bundle-frontend-snippets": [
+      "1.0"
+    ]
+  },
+  "versions": [],
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/iwavesmedia/recipes",
+    "origin_template": "{package}:{version}@github.com/iwavesmedia/recipes:main",
+    "recipe_template": "https://api.github.com/repos/iwavesmedia/recipes/contents/{package_dotted}.{version}.json"
+  }
+}

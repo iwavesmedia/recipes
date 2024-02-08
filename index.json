@@ -2,6 +2,9 @@
   "recipes": {
     "iwaves/bundle-frontend-snippets": [
       "1.0"
+    ],
+    "iwaves/bundle-frontend-system-config": [
+      "1.0"
     ]
   },
   "versions": [],

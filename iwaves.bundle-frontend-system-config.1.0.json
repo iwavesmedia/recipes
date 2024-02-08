@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "iwaves/bundle-frontend-system-config": {
+      "manifest": {
+        "bundles": {
+          "Iwaves\\Bundle\\FrontendSystemConfig\\FrontendSystemConfig": [
+            "all"
+          ]
+        }
+      },
+      "ref": "9ad610271da7a283f2c5fb245de3043f07aa871a%"
+    }
+  }
+}

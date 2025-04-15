@@ -1,0 +1,7 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\Alina\\NavisionConnector\\NavisionConnector": [
+      "all"
+    ]
+  }
+}

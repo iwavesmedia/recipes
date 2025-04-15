@@ -1,0 +1,18 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\Cat\\AvsApiConnector\\AvsApiConnector": [
+      "all"
+    ]
+  },
+  "env": {
+    "VP_API_URL": "",
+    "VP_API_USERNAME": "",
+    "VP_API_PASSWORD": "",
+    "VP_API_PROJECT": "",
+    "VP_API_CLIENT_ID": "",
+    "VP_API_TOKEN": "",
+    "VP_API_TARGET_GROUP": "",
+    "VP_API_SHOP_NAME": "",
+    "VP_API_SALES_PARTNER_NAME": ""
+  }
+}

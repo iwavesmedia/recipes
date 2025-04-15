@@ -1,0 +1,10 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\Alina\\ProductSync\\ProductSync": [
+      "all"
+    ]
+  },
+  "env": {
+    "IWAVES_PRODUCT_SYNC_APP_ENVIRONMENT": "dev"
+  }
+}

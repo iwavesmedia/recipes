@@ -1,0 +1,12 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\Alina\\CRM\\BundleAlinaCRM": [
+      "all"
+    ]
+  },
+  "env": {
+    "BUNDLE_ALINA_CRM_BASE_URI": "",
+    "BUNDLE_ALINA_CRM_TOKEN": "",
+    "BUNDLE_ALINA_CRM_APPLE_PASS_TOKEN": ""
+  }
+}

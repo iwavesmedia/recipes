@@ -1,0 +1,7 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\Utilities\\Utilities": [
+      "all"
+    ]
+  }
+}

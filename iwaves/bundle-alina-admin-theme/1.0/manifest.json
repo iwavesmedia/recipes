@@ -1,0 +1,10 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\Alina\\AdminTheme\\AdminTheme": [
+      "all"
+    ]
+  },
+  "env": {
+    "IWAVES_PLOI_API_TOKEN": ""
+  }
+}

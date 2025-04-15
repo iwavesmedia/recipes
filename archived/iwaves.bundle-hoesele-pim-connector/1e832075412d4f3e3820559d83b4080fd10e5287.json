@@ -1,0 +1,33 @@
+{
+    "manifests": {
+        "iwaves/bundle-hoesele-pim-connector": {
+            "manifest": {
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%/"
+                },
+                "bundles": {
+                    "Iwaves\\Bundle\\Hoesele\\PimConnector\\IwvsHoeselePimConnector": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "IWVS_HOESELE_PIM_CONNECTOR_BASE_URI": "",
+                    "IWVS_HOESELE_PIM_CONNECTOR_USERNAME": "",
+                    "IWVS_HOESELE_PIM_CONNECTOR_PASSWORD": ""
+                }
+            },
+            "files": {
+                "config/packages/iwvs_hoesele_pim_connector.yaml": {
+                    "contents": [
+                        "iwvs_hoesele_pim_connector:",
+                        "  tenant_id:",
+                        "  default_delivery_time_id:",
+                        "  sales_channel_id:"
+                    ],
+                    "executable": false
+                }
+            },
+            "ref": "1e832075412d4f3e3820559d83b4080fd10e5287"
+        }
+    }
+}

@@ -10,11 +10,11 @@
     "branch": "main",
     "is_contrib": true,
     "_links": {
-        "repository": "github.com/itscark/recipes",
-        "origin_template": "{package}:{version}@github.com/itscark/recipes:main",
-        "recipe_template": "https://raw.githubusercontent.com/itscark/recipes/flex/main/{package_dotted}.{version}.json",
+        "repository": "github.com/iwavesmedia/recipes",
+        "origin_template": "{package}:{version}@github.com/iwavesmedia/recipes:main",
+        "recipe_template": "https://raw.githubusercontent.com/iwavesmedia/recipes/flex/main/{package_dotted}.{version}.json",
         "recipe_template_relative": "{package_dotted}.{version}.json",
-        "archived_recipes_template": "https://raw.githubusercontent.com/itscark/recipes/flex/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/iwavesmedia/recipes/flex/main/archived/{package_dotted}/{ref}.json",
         "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-erp-sync": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\AlinaErpSync\\IwvsAlinaErpSync": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "ALINA_ERP_NAVISION_BASE_URI": "",
+                    "ALINA_ERP_NAVISION_TOKEN_URI": "",
+                    "ALINA_ERP_NAVISION_CLIENT_ID": "",
+                    "ALINA_ERP_NAVISION_CLIENT_SECRET": "",
+                    "ALINA_ERP_NAVISION_WEBSERVICE_ENDPOINT": "",
+                    "ALINA_ERP_NAVISION_ORDER_ENDPOINT": ""
+                }
+            },
+            "files": [],
+            "ref": "ba22b62eeb26bea9d2e1f495280f788f58939591"
+        }
+    }
+}

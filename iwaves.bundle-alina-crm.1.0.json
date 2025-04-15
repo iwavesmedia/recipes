@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-crm": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\BusinessCentralConnector\\BusinessCentralConnector": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "d7c6a0367261f2e72699abffb094bb3bd3f7cea5"
+        }
+    }
+}

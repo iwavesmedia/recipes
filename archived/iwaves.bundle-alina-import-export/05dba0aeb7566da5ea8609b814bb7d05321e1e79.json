@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-import-export": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\ImportExport\\ImportExport": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "05dba0aeb7566da5ea8609b814bb7d05321e1e79"
+        }
+    }
+}

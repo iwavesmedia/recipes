@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-utilities": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Utilities\\Utilities": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "ca5b9dbc222d521b05b12d72f5232c28c487ae59"
+        }
+    }
+}

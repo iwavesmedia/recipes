@@ -1,0 +1,18 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-admin-theme": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\AdminTheme\\AdminTheme": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "IWAVES_PLOI_API_TOKEN": ""
+                }
+            },
+            "files": [],
+            "ref": "c42b635c59a98d09296bae6d523a4a87ce7899aa"
+        }
+    }
+}

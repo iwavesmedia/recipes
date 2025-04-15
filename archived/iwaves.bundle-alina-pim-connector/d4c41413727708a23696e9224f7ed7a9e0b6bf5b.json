@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-pim-connector": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\PimConnector\\AlinaPimConnector": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "d4c41413727708a23696e9224f7ed7a9e0b6bf5b"
+        }
+    }
+}

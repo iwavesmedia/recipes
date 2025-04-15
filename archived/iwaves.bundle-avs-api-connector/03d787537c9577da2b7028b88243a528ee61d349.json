@@ -1,0 +1,26 @@
+{
+    "manifests": {
+        "iwaves/bundle-avs-api-connector": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Cat\\AvsApiConnector\\AvsApiConnector": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "VP_API_URL": "",
+                    "VP_API_USERNAME": "",
+                    "VP_API_PASSWORD": "",
+                    "VP_API_PROJECT": "",
+                    "VP_API_CLIENT_ID": "",
+                    "VP_API_TOKEN": "",
+                    "VP_API_TARGET_GROUP": "",
+                    "VP_API_SHOP_NAME": "",
+                    "VP_API_SALES_PARTNER_NAME": ""
+                }
+            },
+            "files": [],
+            "ref": "03d787537c9577da2b7028b88243a528ee61d349"
+        }
+    }
+}

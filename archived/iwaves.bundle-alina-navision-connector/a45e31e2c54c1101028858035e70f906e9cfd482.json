@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-navision-connector": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\NavisionConnector\\NavisionConnector": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "a45e31e2c54c1101028858035e70f906e9cfd482"
+        }
+    }
+}

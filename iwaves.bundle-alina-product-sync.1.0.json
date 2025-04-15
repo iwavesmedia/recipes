@@ -1,0 +1,18 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-product-sync": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\ProductSync\\ProductSync": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "IWAVES_PRODUCT_SYNC_APP_ENVIRONMENT": "dev"
+                }
+            },
+            "files": [],
+            "ref": "8b0d31b6f04da3db4dabda42fbf6faff45861cf3"
+        }
+    }
+}

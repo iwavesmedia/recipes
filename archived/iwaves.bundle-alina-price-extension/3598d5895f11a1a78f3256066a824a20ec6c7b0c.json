@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-price-extension": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\PriceExtension\\PriceExtension": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "3598d5895f11a1a78f3256066a824a20ec6c7b0c"
+        }
+    }
+}

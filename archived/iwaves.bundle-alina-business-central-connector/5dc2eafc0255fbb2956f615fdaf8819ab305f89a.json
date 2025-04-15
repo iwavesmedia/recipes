@@ -1,0 +1,20 @@
+{
+    "manifests": {
+        "iwaves/bundle-alina-business-central-connector": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Alina\\CRM\\BundleAlinaCRM": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "BUNDLE_ALINA_CRM_BASE_URI": "",
+                    "BUNDLE_ALINA_CRM_TOKEN": "",
+                    "BUNDLE_ALINA_CRM_APPLE_PASS_TOKEN": ""
+                }
+            },
+            "files": [],
+            "ref": "5dc2eafc0255fbb2956f615fdaf8819ab305f89a"
+        }
+    }
+}

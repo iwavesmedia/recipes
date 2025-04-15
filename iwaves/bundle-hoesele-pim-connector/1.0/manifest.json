@@ -1,0 +1,15 @@
+{
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "bundles": {
+    "Iwaves\\Bundle\\Hoesele\\PimConnector\\IwvsHoeselePimConnector": [
+      "all"
+    ]
+  },
+  "env": {
+    "IWVS_HOESELE_PIM_CONNECTOR_BASE_URI": "",
+    "IWVS_HOESELE_PIM_CONNECTOR_USERNAME": "",
+    "IWVS_HOESELE_PIM_CONNECTOR_PASSWORD": ""
+  }
+}

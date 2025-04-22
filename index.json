@@ -37,6 +37,9 @@
         "iwaves/bundle-frontend-system-config": [
             "1.0"
         ],
+        "iwaves/bundle-hoesele-business-central-connector": [
+            "1.0"
+        ],
         "iwaves/bundle-hoesele-pim-connector": [
             "1.0"
         ],

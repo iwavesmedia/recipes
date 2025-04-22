@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-hoesele-business-central-connector": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Hoesele\\BusinessCentralConnector\\IwvsHoeseleBusinessCentralConnector": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "4e38194e6b8167abc3c6e0fdbd3c2970d2fd4765"
+        }
+    }
+}

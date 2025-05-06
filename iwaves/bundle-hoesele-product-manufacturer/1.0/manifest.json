@@ -1,6 +1,6 @@
 {
   "bundles": {
-    "Iwaves\\Bundle\\Hoesele\\BusinessCentralConnector\\IwvsHoeseleBusinessCentralConnector": [
+    "Iwaves\\Bundle\\Hoesele\\ProductManufacturer\\IwvsHoeseleProductManufacturer": [
       "all"
     ]
   }

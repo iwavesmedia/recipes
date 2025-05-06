@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-hoesele-product": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\Hoesele\\Product\\IwvsHoeseleProduct": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "3b4dc2e49f4932e75dd631a91f423be245b29584"
+        }
+    }
+}

@@ -4,9 +4,6 @@
         "iwaves/bundle-alina-admin-theme": [
             "1.0"
         ],
-        "iwaves/bundle-alina-business-central-connector": [
-            "1.0"
-        ],
         "iwaves/bundle-alina-crm": [
             "1.0"
         ],
@@ -41,6 +38,9 @@
             "1.0"
         ],
         "iwaves/bundle-hoesele-pim-connector": [
+            "1.0"
+        ],
+        "iwaves/bundle-hoesele-product-manufacturer": [
             "1.0"
         ],
         "iwaves/bundle-utilities": [

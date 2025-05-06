@@ -5,7 +5,6 @@ Additional recipes can be found on the [Main Recipes Repository](https://github.
 | Package | Latest Recipe |
 | --- | --- |
 | [iwaves/bundle-alina-admin-theme](https://packagist.org/packages/iwaves/bundle-alina-admin-theme) | [1.0](iwaves/bundle-alina-admin-theme/1.0) |
-| [iwaves/bundle-alina-business-central-connector](https://packagist.org/packages/iwaves/bundle-alina-business-central-connector) | [1.0](iwaves/bundle-alina-business-central-connector/1.0) |
 | [iwaves/bundle-alina-crm](https://packagist.org/packages/iwaves/bundle-alina-crm) | [1.0](iwaves/bundle-alina-crm/1.0) |
 | [iwaves/bundle-alina-erp-sync](https://packagist.org/packages/iwaves/bundle-alina-erp-sync) | [1.0](iwaves/bundle-alina-erp-sync/1.0) |
 | [iwaves/bundle-alina-import-export](https://packagist.org/packages/iwaves/bundle-alina-import-export) | [1.0](iwaves/bundle-alina-import-export/1.0) |
@@ -18,4 +17,5 @@ Additional recipes can be found on the [Main Recipes Repository](https://github.
 | [iwaves/bundle-frontend-system-config](https://packagist.org/packages/iwaves/bundle-frontend-system-config) | [1.0](iwaves/bundle-frontend-system-config/1.0) |
 | [iwaves/bundle-hoesele-business-central-connector](https://packagist.org/packages/iwaves/bundle-hoesele-business-central-connector) | [1.0](iwaves/bundle-hoesele-business-central-connector/1.0) |
 | [iwaves/bundle-hoesele-pim-connector](https://packagist.org/packages/iwaves/bundle-hoesele-pim-connector) | [1.0](iwaves/bundle-hoesele-pim-connector/1.0) |
+| [iwaves/bundle-hoesele-product-manufacturer](https://packagist.org/packages/iwaves/bundle-hoesele-product-manufacturer) | [1.0](iwaves/bundle-hoesele-product-manufacturer/1.0) |
 | [iwaves/bundle-utilities](https://packagist.org/packages/iwaves/bundle-utilities) | [3.0](iwaves/bundle-utilities/3.0) |

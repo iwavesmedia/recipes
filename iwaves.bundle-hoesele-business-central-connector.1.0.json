@@ -2,14 +2,33 @@
     "manifests": {
         "iwaves/bundle-hoesele-business-central-connector": {
             "manifest": {
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%/"
+                },
                 "bundles": {
                     "Iwaves\\Bundle\\Hoesele\\BusinessCentralConnector\\IwvsHoeseleBusinessCentralConnector": [
                         "all"
                     ]
+                },
+                "env": {
+                    "IWVS_HOESELE_BUSINESS_CENTRAL_CONNECTOR_BASE_URI": "",
+                    "IWVS_HOESELE_BUSINESS_CENTRAL_CONNECTOR_TOKEN_URI": "",
+                    "IWVS_HOESELE_BUSINESS_CENTRAL_CONNECTOR_CLIENT_ID": "",
+                    "IWVS_HOESELE_BUSINESS_CENTRAL_CONNECTOR_CLIENT_SECRET": "",
+                    "IWVS_HOESELE_BUSINESS_CENTRAL_CONNECTOR_WEBSERVICE_ENDPOINT": "",
+                    "IWVS_HOESELE_BUSINESS_CENTRAL_CONNECTOR_WSC_IMPORT_ENDPOINT": ""
                 }
             },
-            "files": [],
-            "ref": "4e38194e6b8167abc3c6e0fdbd3c2970d2fd4765"
+            "files": {
+                "config/packages/iwvs_hoesele_business_central_connector.yml": {
+                    "contents": [
+                        "iwvs_hoesele_business_central_connector:",
+                        "    sales_channel_id: ''"
+                    ],
+                    "executable": false
+                }
+            },
+            "ref": "0d356944ffb75dafd9f5241d1ee45165649060ba"
         }
     }
 }

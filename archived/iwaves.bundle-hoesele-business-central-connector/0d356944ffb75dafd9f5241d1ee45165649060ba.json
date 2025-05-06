@@ -1,7 +1,10 @@
 {
     "manifests": {
-        "iwaves/bundle-alina-business-central-connector": {
+        "iwaves/bundle-hoesele-business-central-connector": {
             "manifest": {
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%/"
+                },
                 "bundles": {
                     "Iwaves\\Bundle\\Hoesele\\BusinessCentralConnector\\IwvsHoeseleBusinessCentralConnector": [
                         "all"
@@ -25,7 +28,7 @@
                     "executable": false
                 }
             },
-            "ref": "cc8ad09465a93ba1d80f27274d338c409bfad3f0"
+            "ref": "0d356944ffb75dafd9f5241d1ee45165649060ba"
         }
     }
 }

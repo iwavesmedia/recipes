@@ -1,0 +1,12 @@
+{
+  "bundles": {
+    "Iwaves\\Bundle\\ETrusted\\IwvsETrusted": [
+      "all"
+    ]
+  },
+  "env": {
+    "IWVS_E_TRUSTED_CLIENT_ID": "",
+    "IWVS_E_TRUSTED_CLIENT_SECRET": "",
+    "IWVS_E_TRUSTED_CHANNELS": ""
+  }
+}

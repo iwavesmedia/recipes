@@ -28,6 +28,9 @@
         "iwaves/bundle-avs-api-connector": [
             "1.0"
         ],
+        "iwaves/bundle-e-trusted": [
+            "1.0"
+        ],
         "iwaves/bundle-frontend-snippets": [
             "1.0"
         ],

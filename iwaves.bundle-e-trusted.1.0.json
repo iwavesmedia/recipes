@@ -1,0 +1,20 @@
+{
+    "manifests": {
+        "iwaves/bundle-e-trusted": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\ETrusted\\IwvsETrusted": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "IWVS_E_TRUSTED_CLIENT_ID": "",
+                    "IWVS_E_TRUSTED_CLIENT_SECRET": "",
+                    "IWVS_E_TRUSTED_CHANNELS": ""
+                }
+            },
+            "files": [],
+            "ref": "63c4a9d0c87474dd97a0e58b44d87aebd59a7ce7"
+        }
+    }
+}

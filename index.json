@@ -32,7 +32,8 @@
             "1.0"
         ],
         "iwaves/bundle-frontend-snippets": [
-            "1.0"
+            "1.0",
+            "2.0"
         ],
         "iwaves/bundle-frontend-system-config": [
             "1.0"

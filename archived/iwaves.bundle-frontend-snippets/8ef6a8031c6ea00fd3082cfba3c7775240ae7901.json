@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "iwaves/bundle-frontend-snippets": {
+            "manifest": {
+                "bundles": {
+                    "Iwaves\\Bundle\\FrontendSnippets\\IwvsFrontendSnippets": [
+                        "all"
+                    ]
+                }
+            },
+            "files": [],
+            "ref": "8ef6a8031c6ea00fd3082cfba3c7775240ae7901"
+        }
+    }
+}

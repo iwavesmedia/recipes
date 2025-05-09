@@ -14,7 +14,7 @@ Additional recipes can be found on the [Main Recipes Repository](https://github.
 | [iwaves/bundle-alina-product-sync](https://packagist.org/packages/iwaves/bundle-alina-product-sync) | [1.0](iwaves/bundle-alina-product-sync/1.0) |
 | [iwaves/bundle-avs-api-connector](https://packagist.org/packages/iwaves/bundle-avs-api-connector) | [1.0](iwaves/bundle-avs-api-connector/1.0) |
 | [iwaves/bundle-e-trusted](https://packagist.org/packages/iwaves/bundle-e-trusted) | [1.0](iwaves/bundle-e-trusted/1.0) |
-| [iwaves/bundle-frontend-snippets](https://packagist.org/packages/iwaves/bundle-frontend-snippets) | [1.0](iwaves/bundle-frontend-snippets/1.0) |
+| [iwaves/bundle-frontend-snippets](https://packagist.org/packages/iwaves/bundle-frontend-snippets) | [2.0](iwaves/bundle-frontend-snippets/2.0) |
 | [iwaves/bundle-frontend-system-config](https://packagist.org/packages/iwaves/bundle-frontend-system-config) | [1.0](iwaves/bundle-frontend-system-config/1.0) |
 | [iwaves/bundle-hoesele-business-central-connector](https://packagist.org/packages/iwaves/bundle-hoesele-business-central-connector) | [1.0](iwaves/bundle-hoesele-business-central-connector/1.0) |
 | [iwaves/bundle-hoesele-pim-connector](https://packagist.org/packages/iwaves/bundle-hoesele-pim-connector) | [1.0](iwaves/bundle-hoesele-pim-connector/1.0) |

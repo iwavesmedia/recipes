@@ -44,6 +44,9 @@
         "iwaves/bundle-hoesele-pim-connector": [
             "1.0"
         ],
+        "iwaves/bundle-hoesele-price-shape": [
+            "1.0"
+        ],
         "iwaves/bundle-hoesele-product": [
             "1.0"
         ],

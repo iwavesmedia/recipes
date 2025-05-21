@@ -1,15 +1,15 @@
 {
     "manifests": {
-        "iwaves/bundle-hoesele-price-shape": {
+        "iwaves/bundle-hoesele-pricing": {
             "manifest": {
                 "bundles": {
-                    "Iwaves\\Bundle\\Hoesele\\PriceShape\\IwvsHoeselePriceShape": [
+                    "Iwaves\\Bundle\\Hoesele\\Pricing\\IwvsHoeselePricing": [
                         "all"
                     ]
                 }
             },
             "files": [],
-            "ref": "4dd7f81b5278ec405d1d250d3fad7706d6f6a24a"
+            "ref": "f00365206be8e936417875bab0404054940e9564"
         }
     }
 }

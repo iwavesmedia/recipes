@@ -1,7 +1,0 @@
-{
-  "bundles": {
-    "Iwaves\\Bundle\\Hoesele\\PriceShape\\IwvsHoeselePriceShape": [
-      "all"
-    ]
-  }
-}
